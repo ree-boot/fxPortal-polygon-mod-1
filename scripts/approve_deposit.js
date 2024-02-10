@@ -2,10 +2,10 @@ const hre = require("hardhat");
 const fxRootContractABI = require("../fxRootContractABI.json");
 const contractJSON = require("../artifacts/contracts/NFT.sol/NFT.json");
 
-const contractAddress = "0x227158d8Bcb32b84a2A0BC11B7E0B7cA500Ad1F0"; // ERC contract addres
+const contractAddress = "Address"; // ERC721 contract address
 const contractABI = contractJSON.abi;
-const fxERC721ContractAddress = "0xF9bc4a80464E48369303196645e876c8C7D972de";
-const walletAddress = "0x69667b36755222864cfa8ACB3777a5842C4c8a51"; // place your public address for your wallet here
+const fxERC721ContractAddress = "0xF9bc4a80464E48369303196645e876c8C7D972de"; // default value no need to change
+const walletAddress = "Address"; // place your public address for your wallet here
 
 async function main() {
 
