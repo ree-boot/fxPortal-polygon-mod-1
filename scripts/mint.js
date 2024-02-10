@@ -2,9 +2,9 @@ const hre = require("hardhat");
 const contractJSON = require("../artifacts/contracts/NFT.sol/NFT.json");
 require('dotenv').config()
 
-const contractAddress = "0x227158d8Bcb32b84a2A0BC11B7E0B7cA500Ad1F0"; // ERC contract address
+const contractAddress = "Address"; // ERC721A contract address
 const contractABI = contractJSON.abi;
-const walletAddress = "0x69667b36755222864cfa8ACB3777a5842C4c8a51"; // Own public address
+const walletAddress = "Address"; // Your public address which is connected to goerli testnet network
 let noOfNFTs = 5;
 async function main() {
 
