@@ -15,7 +15,7 @@ This project demonstrates how to use the fxPortal contracts to transfer ERC721 N
 10. Use this polygon contract address for your getBalance script's tokenAddress
 11. Run npx hardhat run scripts/getBalance.js --network mumbai to see the new polygon balance
 
-###Note:
+### Note:
 1. I used hotpot.ai website to create images.
 2. You need to have some testnet goerliETH in acount in order to run scripts.
 3. You can get GoerliETH from: https://goerli-faucet.pk910.de/
