@@ -20,3 +20,4 @@ This project demonstrates how to use the fxPortal contracts to transfer ERC721 N
 2. You need to have some testnet goerliETH in acount in order to run scripts.
 3. You can get GoerliETH from: https://goerli-faucet.pk910.de/
 4. Paste your public address, do Captcha, then click start mining to get some test ETH.
+5. You must also have some spare MATIC in you wallet.
